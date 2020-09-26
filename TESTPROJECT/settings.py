@@ -28,7 +28,7 @@ SECRET_KEY = 'pfs(7b143#ob6-wlb1twwl*x#7rr^3uv$4wgnjos0d(0i!ej2m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','learnwork.herokuapp.com']
 
 
 # Application definition
